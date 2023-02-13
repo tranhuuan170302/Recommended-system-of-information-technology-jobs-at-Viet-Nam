@@ -13,7 +13,7 @@
  <p>According to observations, most students are oriented that they will follow a certain major, but they are confused in what to do orient yourself with a technology to learn or soft skills that need to be supported in that job.  This makes them doesn't know what skills them need. Therefore, not getting a good job leads to very high unemployment.</p>
 <h1>Introduction</h1>
 <li>ResultData: This is file data.</li>
-<li>ResultData: This is file data.</li>
+<li>main.py: This is file web scraping data from the website [Indeed.com]('https://vn.indeed.com/).</li>
 <li>ResultData: This is file data.</li>
 <li>ResultData: This is file data.</li>
 <li>ResultData: This is file data.</li>
