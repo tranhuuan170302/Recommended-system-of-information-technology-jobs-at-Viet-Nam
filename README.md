@@ -1,5 +1,5 @@
-# Recommended system of information technology jobs in VietNam
-<h1>Abstract</h1>
+# Recommended system of information technology jobs in VietNam.
+<h1>Abstract.</h1>
 <p>Information Technology
  jobs in Vietnam are abundant in multiple industries, ranging from IT support roles to software engineering and development positions. Many of these jobs offer competitive salaries and good working conditions.</p>
 
@@ -17,5 +17,9 @@
 <li>model_BERTopic: This is file building model to predict job by skill, dergee....</li>
 <li>clean_data_and_visualization_data: This is file handle data preprocessing and visualze data summary.</li>
 <li>nameJob: This is save name job.</li>
-<h1>OverView.</h1>
-![plot](./directory_1/directory_2/.../directory_n/plot.png)
+<h1>OverView.</h1><br>
+
+<p align="center">
+  <img src="https://github.com/tranhuuan170302/Recommended-system-of-information-technology-jobs-at-Viet-Nam/blob/main/image.png" width="1000" title="overview">
+  
+</p>
