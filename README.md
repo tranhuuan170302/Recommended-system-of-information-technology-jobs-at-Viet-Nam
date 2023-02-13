@@ -17,6 +17,7 @@
 <li>model_BERTopic: This is file building model to predict job by skill, dergee....</li>
 <li>clean_data_and_visualization_data: This is file handle data preprocessing and visualze data summary.</li>
 <li>nameJob: This is save name job.</li>
+<li><a href = 'https://app.powerbi.com/groups/me/reports/b3f8f554-1a75-40a1-a9d6-bceb0c48d157/ReportSection'>Link PowerBI.</a></li>
 <h1>OverView.</h1><br>
 
 <p align="center">
