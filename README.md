@@ -11,3 +11,4 @@
  <h1>Problem.</h1>
  <p>The information technology industry is one of the most attractive industries in recent times. So the majority of students are studying information technology in following the trend. This makes every year human resources graduates of public majors information technology is very crowded, but the quality is not guaranteed, making a lot of students unemployed and lacking in human resources in Viet Nam.</p>
  <p>According to observations, most students are oriented that they will follow a certain major, but they are confused in what to do orient yourself with a technology to learn or soft skills that need to be supported in that job.  This makes them doesn't know what skills them need. Therefore, not getting a good job leads to very high unemployment.</p>
+<h1>Introduction</h1>
